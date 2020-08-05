@@ -1,5 +1,5 @@
 # Changelog
 
-## x.y.z - [yyy-mm-dd]
+## 0.0.2 - [2020-08-05]
 
-- xxxx
+- work in progress
